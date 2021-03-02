@@ -1,0 +1,13 @@
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.csprojAssemblyReference.cache
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.AssemblyInfoInputs.cache
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.AssemblyInfo.cs
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.csproj.CoreCompileInputs.cache
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.exe
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.deps.json
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.runtimeconfig.json
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.runtimeconfig.dev.json
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.dll
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.pdb
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.dll
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.pdb
+C:\Users\estel\Desktop\Nova pasta (3)\AppSeries\AppSeries\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.genruntimeconfig.cache
